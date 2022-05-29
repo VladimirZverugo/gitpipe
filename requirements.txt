@@ -1,5 +1,3 @@
-unittest
-json
-Flask
-request
-jsonify
+docker==4.1.0
+Flask==1.1.1
+coverage==4.5.4
